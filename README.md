@@ -1,7 +1,16 @@
 # uber
 
 ## Overview 
-
+In this project, we explore the end-to-end Process of a data through which a data passes as -
+- ETL Process such as -
+    - Collecting data
+    - Data Cleaning (Excel, Power Query)
+    - Data Loading (SQL, Power BI)
+- Script or Query runner (Query tool, DAX)
+- Extracting Insights 
+- Data Visualisation (Power BI)
+- Report Building (Word)
+  
 ## Tools we have used in this project -
 - Excel
 - Sql
