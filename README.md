@@ -34,13 +34,14 @@ In this project, we explore the end-to-end Process of a data through which a dat
 -  "SQL_PROJECT_REPORT.docx" in the above file que and download by clicking on the view raw.
   
 
-#### Dashboard link
+### Dashboard link
 - https://app.powerbi.com/groups/me/reports/dd0b3cbc-63f7-47cc-b5a7-3be6796b9d43/cc623942b5aaf1e43d0f?experience=power-bi
 
-#### For downloading the Original raw file, you can refer to the file -
+### For downloading the Original raw file, you can refer to the file -
 "vishal_project.pbix" in the above file que and download by clicking on the view raw.
  
-#### Dashbord Images
+#### Dashbord Images - 
+These are only the images if you want to see the main file you can refer to the above dashboard link or download the raw file.
 - ![Example Image](Images/SLIDE1.png)
 - ![Example Image](Images/SLIDE2.png)
 - ![Example Image](Images/SLIDE3.png)
