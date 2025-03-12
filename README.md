@@ -42,9 +42,9 @@ In this project, we explore the end-to-end Process of a data through which a dat
  
 #### Dashbord Images
 - ![Example Image](Images/SLIDE1.png)
-- ![Example Image](Images/Questions.png.png)
-- ![Example Image](Images/Questions.png.png)
-- ![Example Image](Images/Questions.png.png)
-- ![Example Image](Images/Questions.png.png)
+- ![Example Image](Images/SLIDE2.png)
+- ![Example Image](Images/SLIDE3.png)
+- ![Example Image](Images/SLIDE4.png)
+- ![Example Image](Images/SLIDE5.png)
 
   
