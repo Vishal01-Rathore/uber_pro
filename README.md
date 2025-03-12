@@ -1,7 +1,8 @@
 # uber
 
 ## Overview 
-In this project, we explore the end-to-end Process of a data through which a data passes as -
+Welcome to my analysis of uber ride bookings, focusing on data analyst role. This project was created for understanding the automobile tansportation market. 
+In this project, we explore the end-to-end Process of a data through which a data passes, are as -
 - ETL Process such as -
     - Collecting data
     - Data Cleaning (Excel, Power Query)
