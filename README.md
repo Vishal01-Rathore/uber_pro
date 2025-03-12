@@ -13,7 +13,7 @@ In this project, we explore the end-to-end Process of a data through which a dat
 - Report Building (Word)
 
 ## The questions I have Answered - 
-![Example Image]("Questions.png.png")
+![Example Image](Images/Questions.png.png)
 
   
 ## Tools I used in this project -
