@@ -11,8 +11,11 @@ In this project, we explore the end-to-end Process of a data through which a dat
 - Extracting Insights 
 - Data Visualisation (Power BI)
 - Report Building (Word)
+
+## The questions I have Answered - 
+
   
-## Tools we have used in this project -
+## Tools I used in this project -
 - Excel
 - Sql
 - Power bi
